@@ -1,3 +1,7 @@
+/**
+ * Tablas de multiplicar con nodejs
+ */
+
 // app.js
 const argv = require('./config/yargs').argv;
 const colors = require('colors');
