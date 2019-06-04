@@ -1,5 +1,6 @@
 /**
  * Tablas de multiplicar con nodejs
+ * Por: Claudio Altamiranda
  */
 
 // app.js
